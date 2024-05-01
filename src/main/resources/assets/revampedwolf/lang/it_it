@@ -1,0 +1,9 @@
+{
+  "item.revampedwolf.leather_wolf_armor": "Armatura del lupo in pelle",
+  "item.revampedwolf.iron_wolf_armor": "Armatura del lupo di ferro",
+  "item.revampedwolf.golden_wolf_armor": "Armatura del lupo in oro",
+  "item.revampedwolf.diamond_wolf_armor": "Armatura del lupo di diamante",
+  "item.revampedwolf.netherite_wolf_armor": "Armatura del lupo in netherite",
+  "item.revampedwolf.bagu_hat": "Cappello di Bagu",
+  "revampedwolf.config.disableArmor": "Disattiva l'armatura"
+}
